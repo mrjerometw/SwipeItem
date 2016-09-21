@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="DELETE"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/button_adapteritem_delete"
+        android:elevation="0dp"
+        android:background="@android:color/holo_red_dark"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+</LinearLayout>
